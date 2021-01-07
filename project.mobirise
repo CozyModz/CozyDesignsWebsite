@@ -50,7 +50,7 @@
     "gdpr": false,
     "uniqCompNum": 5,
     "versionPublish": "5.2.0",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-KVHDP8C0FS\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-KVHDP8C0FS');\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BJXEJFWDCS\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BJXEJFWDCS');\n</script>",
     "publishChangesOnly": true
   },
   "pages": {
